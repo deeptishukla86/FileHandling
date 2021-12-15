@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\DotNetProgram\FileStream\BinaryWriter2\bin\Debug\net5.0\BinaryWriter2.exe
+C:\Users\hp\Desktop\DotNetProgram\FileStream\BinaryWriter2\bin\Debug\net5.0\BinaryWriter2.deps.json
+C:\Users\hp\Desktop\DotNetProgram\FileStream\BinaryWriter2\bin\Debug\net5.0\BinaryWriter2.runtimeconfig.json
+C:\Users\hp\Desktop\DotNetProgram\FileStream\BinaryWriter2\bin\Debug\net5.0\BinaryWriter2.runtimeconfig.dev.json
+C:\Users\hp\Desktop\DotNetProgram\FileStream\BinaryWriter2\bin\Debug\net5.0\BinaryWriter2.dll
+C:\Users\hp\Desktop\DotNetProgram\FileStream\BinaryWriter2\bin\Debug\net5.0\ref\BinaryWriter2.dll
+C:\Users\hp\Desktop\DotNetProgram\FileStream\BinaryWriter2\bin\Debug\net5.0\BinaryWriter2.pdb
+C:\Users\hp\Desktop\DotNetProgram\FileStream\BinaryWriter2\obj\Debug\net5.0\BinaryWriter2.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\DotNetProgram\FileStream\BinaryWriter2\obj\Debug\net5.0\BinaryWriter2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\DotNetProgram\FileStream\BinaryWriter2\obj\Debug\net5.0\BinaryWriter2.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\DotNetProgram\FileStream\BinaryWriter2\obj\Debug\net5.0\BinaryWriter2.AssemblyInfo.cs
+C:\Users\hp\Desktop\DotNetProgram\FileStream\BinaryWriter2\obj\Debug\net5.0\BinaryWriter2.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\DotNetProgram\FileStream\BinaryWriter2\obj\Debug\net5.0\BinaryWriter2.dll
+C:\Users\hp\Desktop\DotNetProgram\FileStream\BinaryWriter2\obj\Debug\net5.0\ref\BinaryWriter2.dll
+C:\Users\hp\Desktop\DotNetProgram\FileStream\BinaryWriter2\obj\Debug\net5.0\BinaryWriter2.pdb
+C:\Users\hp\Desktop\DotNetProgram\FileStream\BinaryWriter2\obj\Debug\net5.0\BinaryWriter2.genruntimeconfig.cache
